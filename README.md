@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inder Dev Singh</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
-<img align = "right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/123349957/234554865-00a6a5dc-d311-44cd-a260-66073303767b.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inderdev07&label=Profile%20views&color=0e75b6&style=flat" alt="inderdev07" /> </p>
 
