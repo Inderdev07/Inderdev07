@@ -29,7 +29,7 @@
 <a href="https://kaggle.com/https://www.kaggle.com/inderkatoch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/inderkatoch" height="30" width="40" /></a>
 <a href="https://instagram.com/13_inderdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="13_inderdev" height="30" width="40" /></a>
 <a href="https://hashnode.com/inderdev.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="inderdev.hashnode.dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@python1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@python1000" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/python1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="python1000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
