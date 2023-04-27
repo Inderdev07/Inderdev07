@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dpoDP10ooPGUYAJBJZSmi9gekxsrIozX/view?usp=drivesdk](https://drive.google.com/file/d/1dpoDP10ooPGUYAJBJZSmi9gekxsrIozX/view?usp=drivesdk)
 
-- ⚡ Fun fact **I think I'm a pretty likeable**
+- ⚡ Fun fact **I think I'm a pretty likeable & Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
