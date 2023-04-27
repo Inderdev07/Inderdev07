@@ -3,8 +3,7 @@
 <h3 align="center">A Passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/Inderdev07/Inderdev07/blob/main/QRUB.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inderdev07&label=Profile%20views&color=0e75b6&style=flat" alt="inderdev07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inderdev07" alt="inderdev07" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inderdev07&label=Profile%20views&color=0e75b6&style=flat" alt="inderdev07" /> </p>
 
 <p align="left"> <a href="https://twitter.com/inderkatoch07" target="blank"><img src="https://img.shields.io/twitter/follow/inderkatoch07?logo=twitter&style=for-the-badge" alt="inderkatoch07" /></a> </p>
 
@@ -20,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dpoDP10ooPGUYAJBJZSmi9gekxsrIozX/view?usp=drivesdk](https://drive.google.com/file/d/1dpoDP10ooPGUYAJBJZSmi9gekxsrIozX/view?usp=drivesdk)
 
-- ⚡ Fun fact **I think I'm a pretty likeable & funny**
+- ⚡ Fun fact **I think I'm a pretty likeable**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +28,7 @@
 <a href="https://kaggle.com/https://www.kaggle.com/inderkatoch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/inderkatoch" height="30" width="40" /></a>
 <a href="https://instagram.com/13_inderdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="13_inderdev" height="30" width="40" /></a>
 <a href="https://hashnode.com/inderdev.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="inderdev.hashnode.dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/python1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="python 1000" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/python1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="python1000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
