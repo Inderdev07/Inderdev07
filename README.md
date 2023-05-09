@@ -1,6 +1,6 @@
 ![logo](https://github.com/Inderdev07/Inderdev07/blob/main/WhatsApp%20Image%202023-04-26%20at%2010.22.54.jpg) 
 <h1 align="center">Hi 👋, I'm Inder Dev Singh</h1>
-<h3 align="center">A Passionate Software Engineer from India</h3>
+<h3 align="center">A Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/Inderdev07/Inderdev07/blob/main/QRUB.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inderdev07&label=Profile%20views&color=0e75b6&style=flat" alt="inderdev07" /> </p>
 <p align="left"> <a href="https://twitter.com/inderkatoch07" target="blank"><img src="https://img.shields.io/twitter/follow/inderkatoch07?logo=twitter&style=for-the-badge" alt="inderkatoch07" /></a> </p>
