@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **katochinder71@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dpoDP10ooPGUYAJBJZSmi9gekxsrIozX/view?usp=drivesdk](https://drive.google.com/file/d/1dpoDP10ooPGUYAJBJZSmi9gekxsrIozX/view?usp=drivesdk)
+- 📄 Know about my experiences [https://github.com/Inderdev07/Portfolio/blob/main/RESUME%20.INDER%20DEV.pdf](https://github.com/Inderdev07/Portfolio/blob/main/RESUME%20.INDER%20DEV.pdf)
 
 - ⚡ Fun fact **I think I'm a pretty likeable & Funny**
 
