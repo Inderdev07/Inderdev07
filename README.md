@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **katochinder71@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Inderdev07/Portfolio/blob/main/RESUME%20.INDER%20DEV.pdf](https://drive.google.com/file/d/1ikrZS9HOItR_HoGUq19zxh7YS_gCucMI/view?usp=share_link)
+- 📄 Know about my experiences [Inder Dev Singh RESUME](https://drive.google.com/file/d/1ikrZS9HOItR_HoGUq19zxh7YS_gCucMI/view?usp=share_link)
 
 - ⚡ Fun fact **I think I'm a pretty likeable & Funny**
 
