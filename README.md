@@ -13,6 +13,8 @@
 
 - 📝 I regularly write articles on [inderdev.hashnode.dev](inderdev.hashnode.dev)
 
+- 📝 I regularly write Python Programmes  on [Python collab](https://colab.research.google.com/drive/1dPngUKSR0Y1pMZmaQDg7dtAuxm5ngePM?usp=sharing)
+- 
 - 📫 How to reach me **katochinder71@gmail.com**
 
 - 📄 Know about my experiences [Inder Dev Singh RESUME](https://drive.google.com/file/d/1QYAWnPXYAFrX02UmM4kZHEvgC40J14i9/view?usp=share_link)
