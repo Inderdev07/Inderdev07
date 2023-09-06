@@ -1,4 +1,4 @@
-![logo](https://github.com/Inderdev07/Inderdev07/blob/main/WhatsApp%20Image%202023-04-26%20at%2010.22.54.jpg) 
+![logo](https://github.com/Inderdev07/Inderdev07/blob/main/WhatsApp%20Image%202023-09-06%20at%2019.38.20.jpg) 
 <h1 align="center">Hi 👋, I'm Inder Dev Singh</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/Inderdev07/Inderdev07/blob/main/QRUB.gif">
